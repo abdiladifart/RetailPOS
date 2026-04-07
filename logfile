@@ -1,0 +1,2 @@
+2026-04-07 13:23:48.869 +03 [80354] FATAL:  database files are incompatible with server
+2026-04-07 13:23:48.869 +03 [80354] DETAIL:  The data directory was initialized by PostgreSQL version 14, which is not compatible with this version 15.13 (Homebrew).
