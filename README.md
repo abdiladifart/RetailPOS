@@ -256,8 +256,8 @@ MIT License - مفتوح المصدر
 ## 👨‍💻 المطور
 
 **Lutfi**
-- Email: lutfi@example.com
-- GitHub: @lutfi
+- Email: abdiladifart1996@gmail.com
+- GitHub: @abdiladifart
 
 ## 🤝 المساهمة
 
